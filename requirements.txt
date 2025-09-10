@@ -1,0 +1,8 @@
+# PySpark for Spark DataFrame and MLlib
+pyspark==3.5.0
+
+# For numeric operations and plotting 
+numpy==1.25.2
+pandas==2.1.0
+matplotlib==3.8.0
+scikit-learn==1.3.0
