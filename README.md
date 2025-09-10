@@ -50,12 +50,13 @@ Predict salary using a range of **job** and **company features**.
 ````
 salary_prediction_spark/
 │
-├── salary_prediction_spark.py # Main PySpark script with full workflow
-├── predictions.csv # Model predictions
-├── model_summary.txt # Summary of evaluation metrics
-├── README.md # Project documentation
-└── requirements.txt # Required libraries
-└── LICENSE # MIT License
+├── salary_prediction_by_pyspark.py   # Main PySpark script with full workflow
+├── pyspark_cleaned_dataset.csv       # Cleaned dataset used for training/predictions
+├── predictions.csv                   # Model predictions
+├── README.md                         # Project documentation
+├── requirements.txt                  # Required libraries
+└── LICENSE                           # MIT License
+
 ````
 
 ---
